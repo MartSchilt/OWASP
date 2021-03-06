@@ -1,0 +1,5 @@
+Templating aanpassen en implementeren.
+Fiches styling moet beter voldoen
+
+ChartJs werkt!
+Fiches hebben nu meer styling

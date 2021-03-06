@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Reversi</h1>
+    <p id="api"></p>
+</div>
+
+<!-- Game starter -->
+<button class="btn btn-primary" onclick='SPA.Reversi.setDataClick()'>Spel starten</button>
+
+<!-- Huidige speler -->
+<div id="currentPlayer"></div>
+
+<!-- Reversi board -->
+<table id="reversiBoard" align="center" style="cursor: pointer;">
+    @for (int x = 0; x < 8; x++)
+    {
+        <tr class="reversiBoardRow">
+            @for (int y = 0; y < 8; y++)
+            {
+                <td class="reversiBoardData" id="@(x.ToString()+y.ToString())"><i class="fa piece"></i></td>
+            }
+        </tr>
+    }
+</table>
+
+<!-- Widget -->
+<div class="text-center">
+    <br/>
+    <button onclick="SPA.Widget().showSucces('Succes!')">Succes</button>
+    <button onclick="SPA.Widget().showFail('Fail!')">Fail</button>
+</div>
+<div id="widget"></div>
+
+<!-- Chart -->
+<canvas id="chart" width="400" height="200"></canvas>
