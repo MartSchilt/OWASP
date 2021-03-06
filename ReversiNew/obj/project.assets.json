@@ -12095,11 +12095,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Local Files\\Documenten\\School\\Client\\ReversiNew\\ReversiNew\\ReversiNew.csproj",
+      "projectUniqueName": "D:\\Local Files\\Documenten\\School\\Security\\OWASP\\OWASP\\ReversiNew\\ReversiNew.csproj",
       "projectName": "ReversiNew",
-      "projectPath": "D:\\Local Files\\Documenten\\School\\Client\\ReversiNew\\ReversiNew\\ReversiNew.csproj",
+      "projectPath": "D:\\Local Files\\Documenten\\School\\Security\\OWASP\\OWASP\\ReversiNew\\ReversiNew.csproj",
       "packagesPath": "C:\\Users\\marts\\.nuget\\packages\\",
-      "outputPath": "D:\\Local Files\\Documenten\\School\\Client\\ReversiNew\\ReversiNew\\obj\\",
+      "outputPath": "D:\\Local Files\\Documenten\\School\\Security\\OWASP\\OWASP\\ReversiNew\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -12159,7 +12159,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

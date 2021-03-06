@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AGnVFsVsRhCJ/oVOZT6pWemS4o3EzkQ99qAl9GW4bSLRmPHOc3mNGk5B4y+IItmPdWP/6uaEM3po4vzoXS41NQ==",
+  "dgSpecHash": "M8YhVc5kKEoEUr4pmM1YnF2YLYtk7QZ8G9/AeDBgWbxwbrpze0KdpA8DPYz61Hao/3Gxudj3333Y5f6/P4Y37Q==",
   "success": true,
-  "projectFilePath": "D:\\Local Files\\Documenten\\School\\Client\\ReversiNew\\ReversiNew\\ReversiNew.csproj",
+  "projectFilePath": "D:\\Local Files\\Documenten\\School\\Security\\OWASP\\OWASP\\ReversiNew\\ReversiNew.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\marts\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
