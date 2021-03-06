@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Threat model Security",
+    "owner": "Mart"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "First Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
